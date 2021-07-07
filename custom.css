@@ -9,10 +9,9 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      margin: 100px auto;
-      background-color: rgb(39, 39, 39);
       background: url(https://raw.githubusercontent.com/zaqha/transform/main/grass.jpg);
       background-size: cover;
+      height: 100vh;
     }
 
     div {
