@@ -30,11 +30,11 @@
     }
 
     p{
+      text-align: center;
       position: absolute;
-      top: 5px;
-      left: 320px;
+      width: 100%;
       color: rgb(255, 130, 151,0.75);
-      z-index:1;
+      z-index:999;
       font-family: 'Cute Font','微軟正黑體';
       font-size: 70px;
     }
